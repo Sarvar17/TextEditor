@@ -1,0 +1,17 @@
+E:\Projects\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+E:\Projects\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+E:\Projects\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+E:\Projects\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+E:\Projects\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+E:\Projects\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.Form1.resources
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.GenerateResource.cache
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.Properties.Resources.resources
+E:\Projects\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.Help.resources
