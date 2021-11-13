@@ -4,4 +4,4 @@ Text editor - программа чтобы изменять текстовые 
 
 # Как запускать
 
-bin\Debug\netcoreapp3.1\TextEditor.exe
+
